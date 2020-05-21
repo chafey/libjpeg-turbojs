@@ -1,0 +1,5 @@
+build/*
+build-native/*
+test/fixtures/MG1.JLS
+test/fixtures/artificial*
+test/fixtures/jpeg/jpeg400jfif-new.jpg
